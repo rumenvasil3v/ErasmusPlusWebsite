@@ -1,0 +1,9 @@
+.image-jose {
+    height: 350px;
+}
+
+.image-rumen {
+    height: auto;
+    width: 100%;
+    object-fit: contain;
+}
